@@ -1,6 +1,7 @@
 # internet-speed-charts
 
-Website with google-charts visualizes download and upload speeds from ThingSpeak.com channel.
+Set of the charts which visualize internet speeds. 
+Data comes from ThingSpeak.com channel.
 
 ![sample](doc/img/sample.PNG)
 
@@ -12,6 +13,8 @@ Website with google-charts visualizes download and upload speeds from ThingSpeak
 
 
 ## Technology stack
-#javascript, #google-charts, #jquery
+* google-charts
+* javascript
+* jquery
 
 
