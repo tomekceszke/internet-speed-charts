@@ -10,6 +10,8 @@ Data comes from ThingSpeak.com channel.
 * change [www/js/settings.js](www/js/settings.js) respectively
 * open  [www/index.html](www/index.html) in web browser
 
+## Demo
+http://demo.ceszke.com/internet-speed/
 
 
 ## Technology stack
