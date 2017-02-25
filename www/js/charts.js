@@ -95,7 +95,7 @@ function loadAndDrawUpChart() {
 
 
 
-$(window).resize(function () {
-    drawDownChart();
-    drawUpChart();
-});
+//$(window).resize(function () {
+//    drawDownChart();
+//    drawUpChart();
+//});
